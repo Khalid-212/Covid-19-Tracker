@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/http//Khalid-212.github.io/portfolio/static/css/main.29aece9f.chunk.css",
+    "main.js": "/http//Khalid-212.github.io/portfolio/static/js/main.568464c8.chunk.js",
+    "main.js.map": "/http//Khalid-212.github.io/portfolio/static/js/main.568464c8.chunk.js.map",
+    "runtime-main.js": "/http//Khalid-212.github.io/portfolio/static/js/runtime-main.29f72985.js",
+    "runtime-main.js.map": "/http//Khalid-212.github.io/portfolio/static/js/runtime-main.29f72985.js.map",
+    "static/css/2.bcddf60d.chunk.css": "/http//Khalid-212.github.io/portfolio/static/css/2.bcddf60d.chunk.css",
+    "static/js/2.675aa9c1.chunk.js": "/http//Khalid-212.github.io/portfolio/static/js/2.675aa9c1.chunk.js",
+    "static/js/2.675aa9c1.chunk.js.map": "/http//Khalid-212.github.io/portfolio/static/js/2.675aa9c1.chunk.js.map",
+    "index.html": "/http//Khalid-212.github.io/portfolio/index.html",
+    "precache-manifest.dd0562f4e6a0a28fb0b2308637ed7156.js": "/http//Khalid-212.github.io/portfolio/precache-manifest.dd0562f4e6a0a28fb0b2308637ed7156.js",
+    "service-worker.js": "/http//Khalid-212.github.io/portfolio/service-worker.js",
+    "static/css/2.bcddf60d.chunk.css.map": "/http//Khalid-212.github.io/portfolio/static/css/2.bcddf60d.chunk.css.map",
+    "static/css/main.29aece9f.chunk.css.map": "/http//Khalid-212.github.io/portfolio/static/css/main.29aece9f.chunk.css.map",
+    "static/js/2.675aa9c1.chunk.js.LICENSE.txt": "/http//Khalid-212.github.io/portfolio/static/js/2.675aa9c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29f72985.js",
+    "static/css/2.bcddf60d.chunk.css",
+    "static/js/2.675aa9c1.chunk.js",
+    "static/css/main.29aece9f.chunk.css",
+    "static/js/main.568464c8.chunk.js"
+  ]
+}
